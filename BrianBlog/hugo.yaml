@@ -1,0 +1,57 @@
+baseURL: "https://examplesite.com/"
+title: Brian's Blog
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  math: true
+
+  label:
+    text: "Brian's Blogs"
+    iconHeight: 35
+
+  # home-info mode
+  homeInfoParams:
+    Title: "A collection of things I find cool."
+    Content: Welcome to my blog, where you can find devlogs on my current games and fun projects I am working on.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/BrianAnakPintar"
+    - name: email
+      url: "mailto:brianfransis.moniaga@gmail.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/brian-fransis-moniaga/"
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: ''
+      weight: 9
+    - name: Search
+      url: search/
+      weight: 10
+    - identifier: Tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: portfolio
+      name: Portfolio
+      url: https://brianmoniaga.com
+      weight: 30
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
