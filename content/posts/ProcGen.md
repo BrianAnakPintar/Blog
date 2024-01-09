@@ -7,6 +7,7 @@ tags: ["Party Game", "Unity"]
 ShowCodeCopyButtons: true
 ShowWordCount: true
 math: true
+
 ---
 
 In the process of making the party game, I notice that most scenes and minigames that I make typically requires the creation of a room. Sometimes, each scenes and minigames require different room sizes depending on their gameplay, therefore rather than creating a room prefab, how about I create a tool that automatically generates a room for me. It sounds pretty cool in my opinion, so let's do it 😎.
@@ -138,7 +139,7 @@ private void GenerateWall(Vector3 pos, int rot)
 ```
 # Result
 To ease debugging and the showcase I will create a CustomEditor to run these functions! Now, let's see the result so far,
-![Room Gen](/images/roomgen.gif)
+[![roomgen.gif](https://i.postimg.cc/FzkFKDrv/roomgen.gif)](https://postimg.cc/sGyC6PGH)
 It seems that everything is working perfectly fine. Next, we will proceed with creating decorations to the room and implementing the generated board tiles to these things.
 
 However, this post is a bit too long therefore I shall continue some other time.

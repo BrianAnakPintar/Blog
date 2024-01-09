@@ -60,6 +60,6 @@ Now that we have a way to represent our board, we proceed with creating the turn
 
 Now at this point of the project although I had tested the code by checking the variables, my horrible attention span was not able to make sure that it is actually working properly without those pretty visuals. Therefore, in this part I decided to actually render the board. Here, I generate a board using some math! This is good because by using this method, I am able to create a board with any arbitrary length, thus reducing the time for play testing when in the future 😎.
 
-![Board Image](/images/Board.png)
+[![Board.png](https://i.postimg.cc/Tw4YGZXQ/Board.png)](https://postimg.cc/1nDZr7XN)
 
 Now that we have a board, I also decided to create the player. However, currently there is no animations implemented. Animations are vital if we want this game to look and feel good. Therefore, I will do exactly that in my spare time.

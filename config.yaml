@@ -55,3 +55,6 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+
+staticDir:
+- static
