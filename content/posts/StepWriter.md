@@ -1,18 +1,23 @@
 ---
-title: Step Writer.
+title: STEP Writer.
 date: 2024-06-02
 draft: false
 hideMeta: false
-tags: ["Step Writer", "C++", "FTXUI", "CMake", "GoogleTest"]
+tags: ["STEP Writer", "C++", "FTXUI", "CMake", "GoogleTest"]
 ShowCodeCopyButtons: true
 ShowWordCount: true
 math: true
 
 ---
 
-Step Writer is just my own take on writing a text editor, my hope is that as I continue working on this project it will eventually reach the point where I myself would use this application as my goto editor.
+STEP-Writer is just my own take on writing a text editor, my hope is that as I continue working on this project it will eventually reach the point where I myself would use this application as my go to editor. Additionally, I wish to have this text editor work as a multi-user editor, this means that changes in the application is synced across various users.
 
 This page ideally would be the final "documentation" page for this project. I will try to keep this page up to date with all the recent updates that I make to the repository.
+
+### Acronyms.
+As mentioned, my goal is to make this program good enough to be my go to editor.
+
+Currently, STEP is an acronym that's supposed to be `Shared Text Editor Program`. But at this stage it's looking more like `Scuffed Text Editor Program`. Therefore, I will try my best, such that I can finally transition from `Scuffed` $\to$ `Shared`.
 
 # Overview.
 STEP-Writer is a TUI text editor written in C++. At its core, its my own version of neovim, a tool that can get quite hectic when playing with the `config` file. Aside from that, I can't seem to connect neovim to my school's remote servers as I can't figure out a way to ssh within neovim nor was I able to install neovim in the remote servers.
