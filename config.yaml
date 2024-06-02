@@ -21,8 +21,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "A collection of things I find cool."
-    Content: Welcome to my blog, where you can find devlogs on my current games and fun projects I am working on.
+    Title: "A place of mind."
+    Content: This is the place where I place my thoughts without it needing to be useful nor impressive for anyone. Moreover, this is a good way to practice my writing skills so hopefully it works out.
 
   socialIcons:
     - name: github

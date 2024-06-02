@@ -10,7 +10,7 @@ math: true
 
 ---
 
-In the process of making the party game, I notice that most scenes and minigames that I make typically requires the creation of a room. Sometimes, each scenes and minigames require different room sizes depending on their gameplay, therefore rather than creating a room prefab, how about I create a tool that automatically generates a room for me. It sounds pretty cool in my opinion, so let's do it 😎.
+In the process of making a party game, I notice that most scenes and minigames that I make typically requires the creation of a room. Sometimes, each scenes and minigames require different room sizes depending on their gameplay, therefore rather than creating a room prefab, how about I create a tool that automatically generates a room for me. It sounds pretty cool in my opinion, so let's do it 😎.
 
 # The Task
 Create a general internal tool in Unity which will procedurally generate a room along with various features based on specified parameters. This tool should be able to work in the Scene View using `Custom Editors` along with the Game View during Runtime.

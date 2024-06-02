@@ -5,7 +5,7 @@ date: 2023-12-24
 aliases: ["/devlog1"]
 tags: ["Party Game", "Unity"]
 hideMeta: false
-draft: false
+draft: true
 hidemeta: true
 searchHidden: false
 ShowBreadCrumbs: false
