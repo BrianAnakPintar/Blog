@@ -3,7 +3,7 @@ title: STEP - WRITER.
 date: 2024-06-02
 draft: false
 hideMeta: false
-tags: ["STEP Writer", "C++", "FTXUI", "CMake", "GoogleTest"]
+tags: ["STEP Writer", "C++"]
 ShowCodeCopyButtons: true
 ShowWordCount: true
 math: true
