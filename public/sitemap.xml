@@ -2,24 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/</loc>
-    <lastmod>2023-12-24T00:00:00+00:00</lastmod>
+    <loc>https://BrianAnakPintar.github.io/Blog/posts/bucketlist/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/my-first-post/</loc>
-    <lastmod>2023-12-24T00:00:00+00:00</lastmod>
+    <loc>https://BrianAnakPintar.github.io/Blog/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/party-madness/</loc>
-    <lastmod>2023-12-24T00:00:00+00:00</lastmod>
+    <loc>https://BrianAnakPintar.github.io/Blog/posts/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
-    <lastmod>2023-12-24T00:00:00+00:00</lastmod>
+    <loc>https://BrianAnakPintar.github.io/Blog/tags/c&#43;&#43;/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
-    <lastmod>2023-12-24T00:00:00+00:00</lastmod>
+    <loc>https://BrianAnakPintar.github.io/Blog/posts/syntaxhighlighting/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/unity/</loc>
-    <lastmod>2023-12-24T00:00:00+00:00</lastmod>
+    <loc>https://BrianAnakPintar.github.io/Blog/tags/step-writer/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://BrianAnakPintar.github.io/Blog/tags/</loc>
+    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BrianAnakPintar.github.io/Blog/posts/stepwriter/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BrianAnakPintar.github.io/Blog/posts/procgen/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BrianAnakPintar.github.io/Blog/tags/party-game/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BrianAnakPintar.github.io/Blog/tags/unity/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://BrianAnakPintar.github.io/Blog/categories/</loc>
+  </url><url>
+    <loc>https://BrianAnakPintar.github.io/Blog/search/</loc>
   </url>
 </urlset>

@@ -2,18 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Brian&#39;s Blog</title>
-    <link>https://examplesite.com/posts/</link>
+    <link>https://BrianAnakPintar.github.io/Blog/posts/</link>
     <description>Recent content in Posts on Brian&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://BrianAnakPintar.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Making an Online Party Game</title>
-      <link>https://examplesite.com/posts/my-first-post/</link>
-      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/my-first-post/</guid>
-      <description>Party Madness: Devlog #1</description>
+      <title>A late 2025 Goals.</title>
+      <link>https://BrianAnakPintar.github.io/Blog/posts/bucketlist/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://BrianAnakPintar.github.io/Blog/posts/bucketlist/</guid>
+      <description>Since I need ways to keep myself busy here&amp;rsquo;s things that I think I want to do this year.
+Get a job Travel without a plan. Make 3 new friends. Learn compilers. Get good at Go. Finish 2 big personal projects. Learn more about distributed systems Ditch nvchad, and make my own config. </description>
+    </item>
+    <item>
+      <title>Implementing a Syntax Highlighter with Tree-Sitter.</title>
+      <link>https://BrianAnakPintar.github.io/Blog/posts/syntaxhighlighting/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://BrianAnakPintar.github.io/Blog/posts/syntaxhighlighting/</guid>
+      <description>One of the most important part of a text editor is having a syntax highlighting system. As such, I began looking into different implementations of how one might achieve syntax highlighting. I narrowed down how I would achieve this with either one of:
+A Lexer (Using a pre-made library or build one myself). An Abstract Syntax Tree (Using Tree Sitter). In terms of a lexer, it would read the entire file, concattenated as a string and then it would start parsing from there.</description>
+    </item>
+    <item>
+      <title>STEP - WRITER.</title>
+      <link>https://BrianAnakPintar.github.io/Blog/posts/stepwriter/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://BrianAnakPintar.github.io/Blog/posts/stepwriter/</guid>
+      <description>This Post was Last Updated on: June 8, 2024
+STEP-Writer is just my own take on writing a text editor, my hope is that as I continue working on this project it will eventually reach the point where I myself would use this application as my go to editor. Additionally, I wish to have this text editor work as a multi-user editor, this means that changes in the application is synced across various users.</description>
+    </item>
+    <item>
+      <title>Creating Procedurally Generated Rooms!</title>
+      <link>https://BrianAnakPintar.github.io/Blog/posts/procgen/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://BrianAnakPintar.github.io/Blog/posts/procgen/</guid>
+      <description>In the process of making a party game, I notice that most scenes and minigames that I make typically requires the creation of a room. Sometimes, each scenes and minigames require different room sizes depending on their gameplay, therefore rather than creating a room prefab, how about I create a tool that automatically generates a room for me. It sounds pretty cool in my opinion, so let&amp;rsquo;s do it 😎.</description>
     </item>
   </channel>
 </rss>
