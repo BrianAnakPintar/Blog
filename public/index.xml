@@ -6,8 +6,21 @@
     <description>Recent content on Brian&#39;s Blog</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UBC CPSC Course Reviews</title>
+      <link>http://localhost:1313/Blog/posts/cpsc320/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Blog/posts/cpsc320/</guid>
+      <description>&lt;p&gt;In this post I will yap about the CS courses that I have taken so far and I will mention
+what I like and dislike about each of them!&lt;/p&gt;
+&lt;h2 id=&#34;year-1&#34;&gt;Year 1&lt;/h2&gt;
+&lt;h3 id=&#34;cpsc-110&#34;&gt;CPSC 110&lt;/h3&gt;
+&lt;p&gt;The course is supposed to be a first year&amp;rsquo;s introduction to programming at UBC. I find it somewhat
+interesting as the course is taught using a functional programming language.&lt;/p&gt;
+&lt;p&gt;In my opinion, this course is just an algorithms course in disguise but with Racket.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A late 2025 Goals.</title>
       <link>http://localhost:1313/Blog/posts/bucketlist/</link>
