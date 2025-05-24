@@ -1,6 +1,8 @@
 baseURL: "https://BrianAnakPintar.github.io/Blog/"
 title: Brian's Blog
-paginate: 5
+# New
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true

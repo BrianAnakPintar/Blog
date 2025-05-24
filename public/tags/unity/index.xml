@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Unity on Brian&#39;s Blog</title>
-    <link>https://BrianAnakPintar.github.io/Blog/tags/unity/</link>
+    <link>http://localhost:1313/Blog/tags/unity/</link>
     <description>Recent content in Unity on Brian&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.5</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://BrianAnakPintar.github.io/Blog/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Blog/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating Procedurally Generated Rooms!</title>
-      <link>https://BrianAnakPintar.github.io/Blog/posts/procgen/</link>
+      <link>http://localhost:1313/Blog/posts/procgen/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://BrianAnakPintar.github.io/Blog/posts/procgen/</guid>
-      <description>In the process of making a party game, I notice that most scenes and minigames that I make typically requires the creation of a room. Sometimes, each scenes and minigames require different room sizes depending on their gameplay, therefore rather than creating a room prefab, how about I create a tool that automatically generates a room for me. It sounds pretty cool in my opinion, so let&amp;rsquo;s do it 😎.</description>
+      <guid>http://localhost:1313/Blog/posts/procgen/</guid>
+      <description>&lt;p&gt;In the process of making a party game, I notice that most scenes and minigames that I make typically requires the creation of a room. Sometimes, each scenes and minigames require different room sizes depending on their gameplay, therefore rather than creating a room prefab, how about I create a tool that automatically generates a room for me. It sounds pretty cool in my opinion, so let&amp;rsquo;s do it 😎.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
